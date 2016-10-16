@@ -889,7 +889,7 @@
 				ORGANIZATIONNAME = DJI;
 				TargetAttributes = {
 					3B16A8E719D12167008C1818 = {
-						DevelopmentTeam = 8FN79ANTQW;
+						DevelopmentTeam = W7PYT3T82D;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.DataProtection = {
@@ -1171,7 +1171,7 @@
 				CODE_SIGN_ENTITLEMENTS = DJISdkDemo/DJISdkDemo.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 8FN79ANTQW;
+				DEVELOPMENT_TEAM = W7PYT3T82D;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1189,7 +1189,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = chenkan.dji;
+				PRODUCT_BUNDLE_IDENTIFIER = hackx.hello;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1207,7 +1207,7 @@
 				CODE_SIGN_ENTITLEMENTS = DJISdkDemo/DJISdkDemo.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 8FN79ANTQW;
+				DEVELOPMENT_TEAM = W7PYT3T82D;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1225,7 +1225,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = chenkan.dji;
+				PRODUCT_BUNDLE_IDENTIFIER = hackx.hello;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
